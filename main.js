@@ -12,3 +12,7 @@ let suma = a+b;
     return suma;
 
 }
+function prueba(nombre,accion) {
+    console.log(nombre+" "+accion); 
+    return;
+}
