@@ -1,3 +1,3 @@
 console.log('Hola');
 
-alert('log de prueba')
+console.log('log de prueba')
